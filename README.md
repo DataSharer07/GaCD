@@ -23,5 +23,6 @@ The provided dataset in this repository includes the following files:
 * The ReadMe.md file
 * A script called run_analysis.R for performing the analysis
 * A code book that describes the variables, the data, and any transformations or work that I performed to clean up the data called CodeBook.md
+* A cleaned data set with means and standard deviations  with descriptive variable names called CleanedSmartphoneData.txt
 * A tidy data set with means called: TidySmartphoneDataMeans.txt
 
