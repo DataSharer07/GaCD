@@ -1,6 +1,18 @@
 # Code Book 
 For information and access to the original data set please go to the README.md file.
-The data set after manipulation is saved in the "CleanedSmartphoneData.txt" file has following variables. The steps of the data manipulation are included as descriptive comments in the "run_analysis.R" file.
+The data set after manipulation is saved in the "CleanedSmartphoneData.txt" file has following variables. The steps of the data manipulation are included as descriptive comments in the "run_analysis.R" file and a short description is listed below.
+
+##run_analysis.R
+* Install and load required packages
+* Download files
+* Unzip files
+* Merge data sets
+* Name data sets
+* Only use variables with mean and standard deviation values
+* Assign appropriate labels
+* Save clean data set
+* Create new data set with means for activity and subject
+* Save tidy data set
 
 ## IDs
 * subject
