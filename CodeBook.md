@@ -1,6 +1,6 @@
 # Code Book 
 For information and access to the original data set please go to the README.md file.
-The data set after manipulation saved in the "CleanedSmartphoneData.txt" file has following variables
+The data set after manipulation is saved in the "CleanedSmartphoneData.txt" file has following variables. The steps of the data manipulation are included as descriptive comments in the "run_analysis.R" file.
 
 ## IDs
 * subject
